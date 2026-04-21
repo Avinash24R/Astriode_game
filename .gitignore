@@ -1,0 +1,5 @@
+BOOKBOT/__pycache__/
+__pycache__/
+game_state.jsonl
+
+game_events.jsonl
